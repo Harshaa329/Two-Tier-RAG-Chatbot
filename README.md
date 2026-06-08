@@ -291,3 +291,5 @@ Machine Learning Engineer | AI Engineer | Data Scientist
 LinkedIn: https://www.linkedin.com/in/harshaa-harshini
 
 GitHub: https://github.com/Harshaa329
+
+Portfolio : https://harshaa329.github.io
